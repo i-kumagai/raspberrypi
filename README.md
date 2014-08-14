@@ -12,10 +12,9 @@ http://www.ahirustudio.com/gadget/rasp_pi_work2/
   ```
 
 * facebook api の使い方
-http://tagamidaiki.com/how-to-get-facebook-accesstoken/
-http://dstn.appresso.com/blogdetail?id=2753
-
-アクセストークンの取得までの手順が多い。
+ - http://tagamidaiki.com/how-to-get-facebook-accesstoken/
+ - http://dstn.appresso.com/blogdetail?id=2753
+ * アクセストークンの取得までの手順が多い。
 
 * facebook python sdk
  - インストール方法
